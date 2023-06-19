@@ -1,0 +1,10 @@
+  <link rel="apple-touch-icon" type="image/png"
+    href="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png">
+  <!-- 모바일 앱 아이콘 설정 -->
+
+ <link rel="mask-icon" type="image/x-icon"
+    href="https://cpwebassets.codepen.io/assets/favicon/logo-pin-b4b4269c16397ad2f0f7a01bcdf513a1994f4c94b8af2f191c09eb0d601762b1.svg"
+    color="#111"> <!--마스크 아이콘 설정-->
+
+
+<a href="https://github.com/hwiseong18" target='_blank' style="font-size: x-large" class="text-gray-300 hover:bg-lime-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium" >GitHub</a>
